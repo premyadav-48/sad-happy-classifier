@@ -1,0 +1,8 @@
+__pycache__/ 
+*.pyc 
+tf-env/ 
+.ipynb_checkpoints/ 
+logs/ 
+models/ 
+*.zip 
+*.jpg 
