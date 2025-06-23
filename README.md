@@ -1,4 +1,4 @@
-# Sentient Classifier: Sad vs Happy
+# Sentient Classifier
 
 A deep learning image classifier that predicts whether a person is **sad** or **happy** using TensorFlow and convolutional neural networks (CNN).
 
